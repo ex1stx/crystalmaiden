@@ -1,0 +1,253 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.skills-3Qh {
+  width: 100%;
+  height: 90rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-bg.png');
+  background-color: #ffffff;
+}
+.skills-3Qh .bottom-Fmf {
+  width: 144rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 0;
+  top: 78.5rem;
+  background-color: #000000;
+}
+.skills-3Qh .bottom-6XP {
+  width: 144rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #000000;
+}
+.skills-3Qh .image-2-ZA5 {
+  width: 21.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 4rem;
+  top: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.skills-3Qh .line-1-DVX {
+  width: 131.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 4rem;
+  top: 7.2rem;
+  background-color: #ffffff;
+}
+.skills-3Qh .item--7qo {
+  width: 13rem;
+  height: 3.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 84.8rem;
+  top: 2.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.skills-3Qh .item--7zD {
+  width: 10.7rem;
+  height: 3.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 102.8rem;
+  top: 2.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.skills-3Qh .item--ASh {
+  width: 14.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 120.8rem;
+  top: 2.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.skills-3Qh .rectangle-1-Yy3 {
+  width: 144rem;
+  height: 67.6rem;
+  position: absolute;
+  left: 0;
+  top: 11.1rem;
+  background-color: #1a2738;
+}
+.skills-3Qh .image-7-DJV {
+  width: 12.8rem;
+  height: 12.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5.4rem;
+  top: 19.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.skills-3Qh .bottom-qKs {
+  width: 144rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 75.5rem;
+  background-color: #000000;
+}
+.skills-3Qh .line-2-JDT {
+  width: 12.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 33.4rem;
+  background-color: #ffffff;
+}
+.skills-3Qh .line-3-neR {
+  width: 12.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 57.5rem;
+  background-color: #ffffff;
+}
+.skills-3Qh .image-8-57j {
+  width: 12.8rem;
+  height: 12.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5.4rem;
+  top: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.skills-3Qh .crystalmaidenfrostbite-1-A9B {
+  width: 34.6rem;
+  height: 19.5rem;
+  position: absolute;
+  left: 22.8rem;
+  top: 40.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.skills-3Qh .crystalmaidencrystalnova-1-doT {
+  width: 34.5rem;
+  height: 19.4rem;
+  position: absolute;
+  left: 22.8rem;
+  top: 16.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.skills-3Qh .frostbite-100-6--ia1 {
+  width: 34.7rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 59.5rem;
+  top: 43.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills-3Qh .frostbite-100-6--ia1 .frostbite-100-6--ia1-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #757575;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills-3Qh .crystal-nova--1N5 {
+  width: 34.5rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 19rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills-3Qh .crystal-nova--1N5 .crystal-nova--1N5-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #757575;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills-3Qh .item-4250-200-300-400-500-9ed {
+  width: 40.3rem;
+  height: 16.1rem;
+  position: absolute;
+  left: 98.3rem;
+  top: 21.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #757575;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills-3Qh .item-1000-15-20-25-30-100-6000-FUh {
+  width: 25.4rem;
+  height: 34.3rem;
+  position: absolute;
+  left: 98.3rem;
+  top: 43.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #757575;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills-3Qh .item--Xj3 {
+  width: 7rem;
+  height: 3.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 70rem;
+  top: 69.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}

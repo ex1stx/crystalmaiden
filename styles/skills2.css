@@ -1,0 +1,251 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.skills2-r3f {
+  width: 100%;
+  height: 90rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-bg-n2Z.png');
+  background-color: #ffffff;
+}
+.skills2-r3f .bottom-yg1 {
+  width: 144rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 0;
+  top: 78.5rem;
+  background-color: #000000;
+}
+.skills2-r3f .bottom-j2u {
+  width: 144rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #000000;
+}
+.skills2-r3f .image-2-b57 {
+  width: 21.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 4rem;
+  top: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.skills2-r3f .line-1-d1o {
+  width: 131.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 4rem;
+  top: 7.2rem;
+  background-color: #ffffff;
+}
+.skills2-r3f .item--Hs3 {
+  width: 13rem;
+  height: 3.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 84.8rem;
+  top: 2.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.skills2-r3f .item--aUm {
+  width: 10.7rem;
+  height: 3.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 102.8rem;
+  top: 2.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.skills2-r3f .item--HXb {
+  width: 14.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 120.8rem;
+  top: 2.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.skills2-r3f .rectangle-1-E5T {
+  width: 144rem;
+  height: 67.6rem;
+  position: absolute;
+  left: 0;
+  top: 11.1rem;
+  background-color: #1a2738;
+}
+.skills2-r3f .item--W2y {
+  width: 9.7rem;
+  height: 3.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 70rem;
+  top: 69.3833rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.skills2-r3f .item-06-09-12-15-h7T {
+  width: 28.6rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 102.4rem;
+  top: 21.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #757575;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills2-r3f .bottom-Hzm {
+  width: 144rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 75.5rem;
+  background-color: #000000;
+}
+.skills2-r3f .line-2-iaH {
+  width: 12.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 33.4rem;
+  background-color: #ffffff;
+}
+.skills2-r3f .line-3-XGq {
+  width: 12.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 57.5rem;
+  background-color: #ffffff;
+}
+.skills2-r3f .image-8-aF7 {
+  width: 12.8rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.skills2-r3f .freezing-field-100-100--FMF {
+  width: 34.6rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 59.5rem;
+  top: 43.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills2-r3f .freezing-field-100-100--FMF .freezing-field-100-100--FMF-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #757575;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills2-r3f .arcane-aura-12000-x20-x40-82y {
+  width: 34.2rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 19rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills2-r3f .arcane-aura-12000-x20-x40-82y .arcane-aura-12000-x20-x40-82y-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #757575;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills2-r3f .item-8100-3200-200-400-600-1050-1700-2500-5TK {
+  width: 23.1rem;
+  height: 34.3rem;
+  position: absolute;
+  left: 102rem;
+  top: 43.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #757575;
+  font-family: Gill Sans MT, 'Source Sans Pro';
+}
+.skills2-r3f .image-9-7B3 {
+  width: 12.8rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 19.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.skills2-r3f .crystalmaidenfreezingfield-1-PeM {
+  width: 34.7rem;
+  height: 19.5rem;
+  position: absolute;
+  left: 22.8rem;
+  top: 40.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.skills2-r3f .crystalmaidenbrillianceaura-1-dYh {
+  width: 34.5rem;
+  height: 19.5rem;
+  position: absolute;
+  left: 22.8rem;
+  top: 16.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
